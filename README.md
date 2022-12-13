@@ -1,6 +1,6 @@
 ### olá eu sou Charle Xavier de Morais 👋
 
-- 🌱 estou estudando react
+- 🌱 estou estudando o curso dev full stack mach1
 - 📫 Entre em contato comigo pelo email:charlexavier100@gmail.com ...
 - 😄 Pronome:ele/dele ...        
 
